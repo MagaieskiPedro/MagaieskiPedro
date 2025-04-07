@@ -3,7 +3,7 @@
 </div>
 <div align="center" valign="top"><br>
 
-My Tech Stack
+My Tech Stack 
 -------------
 -------------
 
@@ -22,3 +22,8 @@ My Tech Stack
 
 
 -----------------------------------------------------------------------------------------------------
+:space_invader: :space_invader: :space_invader: :space_invader: :space_invader: :space_invader: :space_invader:
+
+ :space_invader: :space_invader: :space_invader: :space_invader: :space_invader: :space_invader: :space_invader: :space_invader:
+  
+  :space_invader: :space_invader: :space_invader: :space_invader: :space_invader: :space_invader: :space_invader: :space_invader:
