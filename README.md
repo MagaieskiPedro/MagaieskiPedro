@@ -17,7 +17,7 @@ My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,terraform,ansible,docker,azure&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=debian,arduino,arch&theme=dark)](https://skillicons.dev)
 
 
 
