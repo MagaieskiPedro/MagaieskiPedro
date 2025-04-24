@@ -19,7 +19,9 @@ My Tech Stack
 
 
 -------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagaieskiPedro&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=MagaieskiPedro&theme=panda&show_icons=true&hide_border=true&rank_icon=github&hide=contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagaieskiPedro&theme=calm_pink&layout=compact&hide_border=true&card_width=470)](https://github.com/MagaieskiPedro/github-readme-stats)
 
 
 -----------------------------------------------------------------------------------------------------
