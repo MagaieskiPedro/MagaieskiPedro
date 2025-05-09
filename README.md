@@ -22,7 +22,7 @@ My Tech Stack
 Learning
 -------------
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,rabbitmq,githubactions,mongodb,redis,azure&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,kubernetes,rabbitmq,mongodb,redis,githubactions&theme=dark)](https://skillicons.dev)
 
 ------------
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=MagaieskiPedro&theme=panda&show_icons=true&hide_border=true&rank_icon=github&hide=contribs)
