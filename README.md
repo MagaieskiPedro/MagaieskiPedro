@@ -5,24 +5,25 @@
 
 My Tech Stack 
 -------------
-[![My Skills](https://skillicons.dev/icons?i=angular,vue,npm,nodejs,md,javascript,html,css&theme=dark)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,angular,vue,npm,nodejs,md&theme=dark)](https://skillicons.dev) 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,maven,spring,hibernate,fastapi,django,djangorestframework,dart&titles=true) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,django,python,java,dart,spring,maven,hibernate,djangorestframework&titles=true) 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=insomnia,vscode,idea,bash,audacity&titles=true) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=insomnia,vscode,idea,bash,powershell&titles=true) 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,ansible,terraform&theme=dark)](https://skillicons.dev) 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite,mysql,postgres,sqlserver&titles=true) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlite,mysql,postgres,sqlserver,redis&titles=true) 
 
-[![My Skills](https://skillicons.dev/icons?i=debian,arduino,arch,gamemakerstudio&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,arch,debian&theme=dark)](https://skillicons.dev) 
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,nginx,rabbitmq&theme=dark)](https://skillicons.dev)
 
 
 -------------
 Learning
 -------------
 
-[![My Skills](https://skillicons.dev/icons?i=azure,kubernetes,rabbitmq,mongodb,redis,githubactions,rust&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,kubernetes,mongodb,azure,githubactions,terraform&theme=dark)](https://skillicons.dev)
 
 ------------
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=MagaieskiPedro&theme=panda&show_icons=true&hide_border=true&rank_icon=github&hide=contribs)
