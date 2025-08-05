@@ -16,14 +16,14 @@ My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,arch,debian&theme=dark)](https://skillicons.dev) 
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,nginx,rabbitmq&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,nginx,rabbitmq,githubactions&theme=dark)](https://skillicons.dev)
 
 
 -------------
 Learning
 -------------
 
-[![My Skills](https://skillicons.dev/icons?i=rust,kubernetes,mongodb,azure,githubactions,terraform&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,kubernetes,mongodb,azure,terraform&theme=dark)](https://skillicons.dev)
 
 ------------
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=MagaieskiPedro&theme=panda&show_icons=true&hide_border=true&rank_icon=github&hide=contribs)
