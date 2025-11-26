@@ -26,12 +26,14 @@ Learning
 [![My Skills](https://skillicons.dev/icons?i=rust,kubernetes,mongodb,azure,terraform&theme=dark)](https://skillicons.dev)
 
 ------------
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=MagaieskiPedro&theme=panda&show_icons=true&hide_border=true&rank_icon=github&hide=contribs)
+<!---
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=MagaieskiPedro&theme=panda&show_icons=true&hide_border=true&rank_icon=github&hide=contribs))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagaieskiPedro&theme=calm_pink&layout=compact&hide_border=true&card_width=470)](https://github.com/MagaieskiPedro/github-readme-stats)
+([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagaieskiPedro&theme=calm_pink&layout=compact&hide_border=true&card_width=470)](https://github.com/MagaieskiPedro/github-readme-stats))
 
 
 -----------------------------------------------------------------------------------------------------
+-->
 :space_invader: :space_invader: :space_invader: :space_invader: :space_invader: :space_invader: :space_invader:
 
 :space_invader: :space_invader: :space_invader: :space_invader: :space_invader: :space_invader: :space_invader: :space_invader:
