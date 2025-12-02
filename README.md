@@ -18,6 +18,10 @@ My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,nginx,rabbitmq,githubactions&theme=dark)](https://skillicons.dev)
 
+<img src="https://styles.redditmedia.com/t5_35ub9/styles/communityIcon_bs6cc7ey9k3b1.png" width=5% height=5%>
+
+
+
 
 -------------
 Learning
